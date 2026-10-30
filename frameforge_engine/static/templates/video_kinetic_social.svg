@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Kinetic Social Promo video template preview">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#05131f"/><stop offset=".5" stop-color="#10235a"/><stop offset="1" stop-color="#5c1456"/></linearGradient></defs><rect width="960" height="540" rx="28" fill="url(#b)"/><rect x="260" y="120" width="190" height="320" rx="18" fill="#0a1827" stroke="#56eaff" stroke-width="5"/><rect x="475" y="145" width="210" height="270" rx="18" fill="#0a1827" stroke="#b35cff" stroke-width="5"/>
+  <path d="M303 176l31-16 22 17 22-17 31 16 27 39-30 21-13-20v115h-74V216l-13 20-30-21z" fill="#0c1220" stroke="#5fefff" stroke-width="4"/><path d="M519 196l34-18 23 19 24-19 34 18 29 43-33 22-14-21v127h-80V240l-14 21-33-22z" fill="#10101f" stroke="#c76dff" stroke-width="4"/>
+  <circle cx="469" cy="280" r="48" fill="#08bfe8"/><path d="M457 256l34 24-34 24z" fill="#fff"/>
+  <text x="48" y="72" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">KINETIC SOCIAL</text><text x="48" y="105" fill="#8defff" font-family="sans-serif" font-size="18">Fast premium cuts for vertical campaigns</text>
+</svg>
+

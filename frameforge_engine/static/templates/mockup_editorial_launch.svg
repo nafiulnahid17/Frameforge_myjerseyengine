@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Editorial Launch mockup preview">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#17151c"/><stop offset="1" stop-color="#5c4450"/></linearGradient></defs><rect width="960" height="540" rx="28" fill="url(#b)"/><rect x="85" y="120" width="790" height="340" rx="10" fill="#e9e2db" opacity=".12"/><path d="M585 112l235 348M690 100l185 274" stroke="#f6d9be" stroke-width="30" opacity=".12"/>
+  <path d="M364 145l57-30 39 31 39-31 57 30 48 70-55 38-22-35v206H393V218l-22 35-55-38z" fill="#ece7e3" stroke="#fff" stroke-width="6"/><path d="M394 277l132-62M394 339l132-62" stroke="#aa334f" stroke-width="17"/>
+  <text x="48" y="72" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">EDITORIAL LAUNCH</text><text x="48" y="105" fill="#f6d9be" font-family="sans-serif" font-size="18">Premium fashion-campaign direction</text>
+</svg>
+

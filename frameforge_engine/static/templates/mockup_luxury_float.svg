@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Luxury 3D Float mockup preview">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030812"/><stop offset=".55" stop-color="#071d38"/><stop offset="1" stop-color="#36105c"/></linearGradient><radialGradient id="g"><stop stop-color="#4af5ff" stop-opacity=".8"/><stop offset="1" stop-color="#4af5ff" stop-opacity="0"/></radialGradient></defs>
+  <rect width="960" height="540" rx="28" fill="url(#b)"/><circle cx="480" cy="270" r="220" fill="url(#g)"/><ellipse cx="480" cy="435" rx="245" ry="38" fill="#00d9ff" opacity=".2"/>
+  <path d="M370 145l65-34 45 35 45-35 65 34 58 83-65 44-27-41v201H404V231l-27 41-65-44z" fill="#07111d" stroke="#64f5ff" stroke-width="8"/><path d="M405 278l150-70M405 342l150-70" stroke="#8c4cff" stroke-width="18" opacity=".9"/>
+  <text x="48" y="72" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">LUXURY 3D FLOAT</text><text x="48" y="105" fill="#8defff" font-family="sans-serif" font-size="18">Premium floating product campaign</text>
+</svg>
+

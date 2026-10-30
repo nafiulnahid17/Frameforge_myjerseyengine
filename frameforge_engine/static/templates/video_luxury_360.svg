@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Luxury 360 video template preview">
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#050813"/><stop offset="1" stop-color="#25104c"/></linearGradient></defs><rect width="960" height="540" rx="28" fill="url(#b)"/><ellipse cx="490" cy="290" rx="250" ry="165" fill="none" stroke="#55eaff" stroke-width="5" stroke-dasharray="18 14"/><path d="M710 230l28 34-43 10" fill="none" stroke="#55eaff" stroke-width="8"/>
+  <path d="M399 150l53-28 38 29 38-29 53 28 46 67-52 36-22-34v196H427V219l-22 34-52-36z" fill="#08111c" stroke="#63efff" stroke-width="7"/><path d="M428 278l125-60M428 337l125-60" stroke="#894bff" stroke-width="16"/>
+  <circle cx="490" cy="290" r="49" fill="#08bfe8" opacity=".9"/><path d="M478 265l35 25-35 25z" fill="#fff"/>
+  <text x="48" y="72" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">LUXURY 360°</text><text x="48" y="105" fill="#8defff" font-family="sans-serif" font-size="18">Smooth rotation and studio motion</text>
+</svg>
+

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Stadium Reveal video template preview">
+  <defs><linearGradient id="b" y2="1"><stop stop-color="#01050c"/><stop offset="1" stop-color="#09244a"/></linearGradient></defs><rect width="960" height="540" rx="28" fill="url(#b)"/><path d="M110 470L350 95h260l240 375" fill="#06111f" stroke="#1767bf" stroke-width="8"/><path d="M175 430L395 130M785 430L565 130" stroke="#4bdfff" stroke-width="8" opacity=".6"/>
+  <path d="M404 160l46-24 31 25 32-25 46 24 40 58-45 31-19-29v170H427V220l-19 29-45-31z" fill="#07111e" stroke="#5deaff" stroke-width="6"/><circle cx="481" cy="280" r="46" fill="#078de8"/><path d="M469 256l33 24-33 24z" fill="#fff"/>
+  <text x="48" y="72" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">STADIUM REVEAL</text><text x="48" y="105" fill="#8defff" font-family="sans-serif" font-size="18">Tunnel-to-hero cinematic sequence</text>
+</svg>
+

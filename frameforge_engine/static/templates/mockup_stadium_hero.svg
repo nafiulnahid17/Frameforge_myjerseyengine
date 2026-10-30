@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Stadium Hero mockup preview">
+  <defs><linearGradient id="b" y2="1"><stop stop-color="#020713"/><stop offset="1" stop-color="#09254a"/></linearGradient><radialGradient id="l"><stop stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#29b6ff" stop-opacity="0"/></radialGradient></defs><rect width="960" height="540" rx="28" fill="url(#b)"/>
+  <path d="M0 300Q480 70 960 300v240H0z" fill="#061525"/><path d="M0 360Q480 140 960 360" fill="none" stroke="#23aaff" stroke-width="8" opacity=".45"/><circle cx="170" cy="105" r="110" fill="url(#l)"/><circle cx="790" cy="105" r="110" fill="url(#l)"/>
+  <path d="M384 145l57-30 39 31 39-31 57 30 48 70-55 38-22-35v206H413V218l-22 35-55-38z" fill="#08101b" stroke="#45d8ff" stroke-width="7"/><path d="M414 277l132-62M414 339l132-62" stroke="#1d69ff" stroke-width="17"/>
+  <text x="48" y="72" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">STADIUM HERO</text><text x="48" y="105" fill="#8defff" font-family="sans-serif" font-size="18">Floodlit match-night reveal</text>
+</svg>
+
